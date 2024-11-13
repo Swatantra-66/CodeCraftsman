@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Swatantra Yadav</h1>
 <h3 align="center">A passionate WebDevelopment learner from India.</h3>
 
@@ -7,11 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript,C,Blockchain**
 
-- 💬 Ask me about **Html,CSS**
-
 - 📫 How to reach me **swatantramaverick@gmail.com**
-
-- ⚡ Fun fact **W**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swatantra-66&show_icons=true&locale=en" alt="swatantra-66" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swatantra-66&" alt="swatantra-66" /></p>
-
